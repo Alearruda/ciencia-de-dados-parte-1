@@ -42,11 +42,11 @@ nav a {
 
 nav a:hover {
     text-decoration: underline;
-    tranform: scale(0.90);
+    transform: scale(0.90);
     transition: transform 0.15;
 }
 
 footer {
     display: flex;
-    align-itens: center;
+    align-items: center;
 }
